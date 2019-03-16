@@ -40,7 +40,6 @@
 		-->
 		<Row Era="ERA_ANCIENT" Unit="UNIT_SETTLER"/>
 		<Row Era="ERA_ANCIENT" Unit="UNIT_WARRIOR" NotStartTile="true"/>
-		<Row Era="ERA_ANCIENT" Unit="UNIT_MODERN_ARMOR" NotStartTile="true" AiOnly="false"/>
 		<Row Era="ERA_ANCIENT" Unit="UNIT_SETTLER" AiOnly="true" MinDifficulty="DIFFICULTY_EMPEROR" DifficultyDelta="0.5" OnDistrictCreated="true"/>
 		<Row Era="ERA_ANCIENT" Unit="UNIT_WARRIOR" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="1" NotStartTile="true"/>
 		<Row Era="ERA_ANCIENT" Unit="UNIT_BUILDER" AiOnly="true" MinDifficulty="DIFFICULTY_KING" DifficultyDelta="0.5" OnDistrictCreated="true"/>
