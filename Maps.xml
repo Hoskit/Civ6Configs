@@ -102,12 +102,12 @@
 		<Row ContinentType="CONTINENT_ZEALANDIA" Description="LOC_CONTINENT_ZEALANDIA_DESCRIPTION"/>
 	</Continents>
 	<Maps>
-		<Row MapSizeType="MAPSIZE_DUEL" Name="LOC_MAPSIZE_DUEL_NAME" Description="LOC_MAPSIZE_DUEL_DESCRIPTION" DefaultPlayers="2" GridWidth="44" GridHeight="26" NumNaturalWonders="2" PlateValue="3" Continents="1"/>
-		<Row MapSizeType="MAPSIZE_TINY" Name="LOC_MAPSIZE_TINY_NAME" Description="LOC_MAPSIZE_TINY_DESCRIPTION" DefaultPlayers="4" GridWidth="60" GridHeight="38" NumNaturalWonders="3" PlateValue="3" Continents="2"/>
-		<Row MapSizeType="MAPSIZE_SMALL" Name="LOC_MAPSIZE_SMALL_NAME" Description="LOC_MAPSIZE_SMALL_DESCRIPTION" DefaultPlayers="6" GridWidth="74" GridHeight="46" NumNaturalWonders="4" PlateValue="4" Continents="3"/>
-		<Row MapSizeType="MAPSIZE_STANDARD" Name="LOC_MAPSIZE_STANDARD_NAME" Description="LOC_MAPSIZE_STANDARD_DESCRIPTION" DefaultPlayers="8" GridWidth="84" GridHeight="54" NumNaturalWonders="5" PlateValue="4" Continents="4"/>
-		<Row MapSizeType="MAPSIZE_LARGE" Name="LOC_MAPSIZE_LARGE_NAME" Description="LOC_MAPSIZE_LARGE_DESCRIPTION" DefaultPlayers="10" GridWidth="96" GridHeight="60" NumNaturalWonders="6" PlateValue="5" Continents="5"/>
-		<Row MapSizeType="MAPSIZE_HUGE" Name="LOC_MAPSIZE_HUGE_NAME" Description="LOC_MAPSIZE_HUGE_DESCRIPTION" DefaultPlayers="12" GridWidth="106" GridHeight="66" NumNaturalWonders="7" PlateValue="5" Continents="6"/>
+		<Row MapSizeType="MAPSIZE_DUEL" Name="LOC_MAPSIZE_DUEL_NAME" Description="LOC_MAPSIZE_DUEL_DESCRIPTION" DefaultPlayers="10" GridWidth="44" GridHeight="26" NumNaturalWonders="4" PlateValue="3" Continents="1"/>
+		<Row MapSizeType="MAPSIZE_TINY" Name="LOC_MAPSIZE_TINY_NAME" Description="LOC_MAPSIZE_TINY_DESCRIPTION" DefaultPlayers="15" GridWidth="60" GridHeight="38" NumNaturalWonders="6" PlateValue="3" Continents="2"/>
+		<Row MapSizeType="MAPSIZE_SMALL" Name="LOC_MAPSIZE_SMALL_NAME" Description="LOC_MAPSIZE_SMALL_DESCRIPTION" DefaultPlayers="20" GridWidth="74" GridHeight="46" NumNaturalWonders="8" PlateValue="4" Continents="3"/>
+		<Row MapSizeType="MAPSIZE_STANDARD" Name="LOC_MAPSIZE_STANDARD_NAME" Description="LOC_MAPSIZE_STANDARD_DESCRIPTION" DefaultPlayers="20" GridWidth="84" GridHeight="54" NumNaturalWonders="10" PlateValue="4" Continents="4"/>
+		<Row MapSizeType="MAPSIZE_LARGE" Name="LOC_MAPSIZE_LARGE_NAME" Description="LOC_MAPSIZE_LARGE_DESCRIPTION" DefaultPlayers="20" GridWidth="96" GridHeight="60" NumNaturalWonders="12" PlateValue="5" Continents="5"/>
+		<Row MapSizeType="MAPSIZE_HUGE" Name="LOC_MAPSIZE_HUGE_NAME" Description="LOC_MAPSIZE_HUGE_DESCRIPTION" DefaultPlayers="20" GridWidth="106" GridHeight="66" NumNaturalWonders="14" PlateValue="5" Continents="6"/>
 	</Maps>
 	<Map_GreatPersonClasses>
 		<!--Prophets are additionally limited by the number of beliefs in the game, which may override values here if they are too large-->
