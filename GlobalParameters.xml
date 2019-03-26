@@ -194,7 +194,7 @@
 		
 		<Replace Name="COMBAT_RANGED_VS_DISTRICT_STRENGTH_MODIFIER" Value="17" />
 		
-		<Replace Name="COMBAT_RAZE_ANY_CITY" Value="false" />
+		<Replace Name="COMBAT_RAZE_ANY_CITY" Value="true" />
 		
 		<Replace Name="COMBAT_RELIGIOUS_FOLLOWING_CITY_TILE" Value="5" />
 		
